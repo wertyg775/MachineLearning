@@ -1,0 +1,1 @@
+Creating traditional machine learning models from scratch to better understand how the models function and the underlying maths of the models
